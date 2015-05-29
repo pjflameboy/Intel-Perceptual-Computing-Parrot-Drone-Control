@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/javaFramework"/>
+	<classpathentry kind="lib" path="commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="slf4j-jdk14-1.7.2.jar"/>
+	<classpathentry kind="lib" path="xuggle-xuggler-5.4.jar"/>
+	<classpathentry kind="lib" path="yadrone_032.jar"/>
+	<classpathentry kind="lib" path="/javaFramework/lib/json/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/javaFramework/lib/smack/smack-3.4.1-0cec571.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
